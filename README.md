@@ -77,7 +77,7 @@ Once both servers are running:
 - The backend will connect to MongoDB and start the server.
 - The frontend will launch on `http://localhost:5173/`.
 
-## Demo Resources
+## Documentation & Demo Video
 - 📽️ **Demo Video**: [Watch Here](https://drive.google.com/file/d/108qNPrnwPMjD7eSWat74uf7pVeYMxLbI/view?usp=sharing)
 - 📄 **Demo Documentation**: [View Here](https://docs.google.com/document/d/1Gt8vcFrxZH6_WQRcmX9xa4zXGX8ryFn0/edit?usp=sharing&ouid=113778611771284704311&rtpof=true&sd=true)
 
